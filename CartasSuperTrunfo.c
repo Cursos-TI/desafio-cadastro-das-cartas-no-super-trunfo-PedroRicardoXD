@@ -12,7 +12,7 @@ int main(){
     float area2, pib2;
     int habitantes2, npturisticos2, ncarta2;// término da entrada da carta 2
     
-    printf("BEM-VINDOS AO SUPER TRUNFO:CIDADES \n");
+    printf("BEM-VINDOS AO SUPER TRUNFO PAISES: CIDADES \n");
 
     printf("Dados da carta 1 \n");                     
                                                                     //Inicio do questionario da carta 1
